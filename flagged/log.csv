@@ -1,0 +1,2 @@
+image,output,flag,username,timestamp
+flagged/image/8dbc2d4efe3454766f94/Benign Interface Test.jpg,"{""label"": ""Malignant"", ""confidences"": [{""label"": ""Malignant"", ""confidence"": 3.371307611465454}]}",,,2024-05-20 20:32:43.522112
